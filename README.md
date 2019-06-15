@@ -1,2 +1,3 @@
-# SkycoinWhitePaper
- Brief explanation of the Skycoin project and its Whitepaper
+# Curriculum Vitae
+
+This is my curriculum Vitae
