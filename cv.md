@@ -2,12 +2,12 @@
 
 ## Profile
 
-`Name:` Marcos A. Maceo
-`Age:` 21
-`Address:` Cerro, Havana
-`City:` Cuba
-`Phone:` +5353892073
-`E-mail:` marcosmaceowork@gmail.com
+- `Name:` Marcos A. Maceo
+- `Age:` 21
+- `Municipality, Province:` Cerro, Havana
+- `Country:` Cuba
+- `Phone:` +5353892073
+- `E-mail:` marcosmaceowork@gmail.com
 
 ## Education
 
